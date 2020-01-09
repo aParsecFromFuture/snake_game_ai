@@ -1,5 +1,6 @@
 # snake_game_ai
-Snakes and artificial neural networks
+
+Bringing solutions to the classic snake game from the nature perspective.  
 
 ![alt text](src/documents/game.gif)
 ![alt text](src/documents/ann.png)
